@@ -1,0 +1,9 @@
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\bin\Debug\copyFile1.exe.config
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\bin\Debug\copyFile1.exe
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\bin\Debug\copyFile1.pdb
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\obj\Debug\copyFile1.Properties.Resources.resources
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\obj\Debug\copyFile1.csproj.GenerateResource.Cache
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\obj\Debug\copyFile1.exe
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\obj\Debug\copyFile1.pdb
+c:\users\victorlee\documents\visual studio 2015\Projects\copyFile1\copyFile1\obj\Debug\copyFile1.Form1.resources
+C:\Users\VictorLee\documents\visual studio 2015\Projects\copyFile1\copyFile1\obj\Debug\copyFile1.csprojResolveAssemblyReference.cache
